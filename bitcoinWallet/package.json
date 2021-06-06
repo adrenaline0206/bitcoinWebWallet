@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "bignumber.js": "^7.2.1",
     "bitcore-explorers": "^1.0.1",
     "bitcore-lib": "^0.15.0",
